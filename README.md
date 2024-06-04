@@ -1,5 +1,13 @@
 # Trystar
 This repository has been forked from https://github.com/microsoft for usage by Trystar, LLC.
+
+### Refs
+- Dev Box Pricing
+    - https://azure.microsoft.com/en-us/pricing/details/dev-box/
+- Dev Box MS Docs
+    - https://learn.microsoft.com/en-us/azure/dev-box/
+- Config-as-Code
+    - https://techcommunity.microsoft.com/t5/microsoft-developer-community/accelerate-developer-onboarding-with-the-configuration-as-code/ba-p/4062416
 _________________________
 
 # DevCenter Catalog
